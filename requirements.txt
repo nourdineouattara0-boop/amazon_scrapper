@@ -1,0 +1,5 @@
+URL_SITE = "https://www.amazon.fr"
+TEMPS_ATTENTE = 10
+beautifulsoup4==4.12.3
+selenium==4.18.1
+webdriver-manager==4.0.1
